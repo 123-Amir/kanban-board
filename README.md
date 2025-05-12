@@ -11,18 +11,21 @@ Fast & Lightweight:- Powered by Vite and React.
 TypeScript Safety:- All code is fully typed.
 State Management:- Uses Zustand for simple and scalable state.
 
-🛠️ Tech Stack
-React
-TypeScript
-Vite
-Tailwind CSS
+🛠️ Tech Stack ->
+React,
+TypeScript,
+Vite,
+Tailwind CSS,
 Zustand
 
 🚦 Getting Started
 1.Clone the repository: git clone https://github.com/yourusername/kanban-board.git
 cd kanban-board
+
 2.Install dependencies: npm install
+
 3.Start the development server: npm run dev
+
 4.Open in your browser: http://localhost:5173
 
 Name:- Amir Hussain
