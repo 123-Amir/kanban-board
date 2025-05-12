@@ -1,3 +1,7 @@
+## 🚀 Live Demo
+
+[Kanban Board Live](https://123-Amir.github.io/kanban-board/)
+
 🚀 Kanban Board
 A modern, responsive Kanban Board built with React, TypeScript, Vite, Tailwind CSS, and Zustand for state management.
 
