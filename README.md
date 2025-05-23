@@ -23,7 +23,7 @@ Tailwind CSS,
 Zustand
 
 🚦 Getting Started
-1.Clone the repository: git clone https://github.com/yourusername/kanban-board.git
+1.Clone the repository: git clone https://github.com/123-Amir/kanban-board.git
 cd kanban-board
 
 2.Install dependencies: npm install
